@@ -152,7 +152,7 @@ font-family: 'Source Sans Pro', sans-serif;;
   background-color: transparent;
 }
 
-//#mainNav .navbar-nav > li > a.active:hover {
+#mainNav .navbar-nav > li > a.active:hover {
   background-color: transparent;
 }
 
