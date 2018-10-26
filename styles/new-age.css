@@ -9,7 +9,7 @@ body {
 }
 
 a {
-  color: #40c974;
+  color: #30af00;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s;
@@ -116,14 +116,14 @@ section h2 {
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s;
-  font-family: 'Varela Round';
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 200;
   letter-spacing: 1px;
 }
 
 #mainNav .navbar-brand {
-  color: #40c974;
-font-family: 'Source Sans Pro', sans-serif;
+  color: #30af00;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 200;
   letter-spacing: 1px;
 }
@@ -148,7 +148,7 @@ font-family: 'Source Sans Pro', sans-serif;;
 }
 
 #mainNav .navbar-nav > li > a.active {
-  color: #40c974 !important;
+  color: #30af00 !important;
   background-color: transparent;
 }
 
@@ -163,7 +163,7 @@ font-family: 'Source Sans Pro', sans-serif;;
 
 #mainNav .navbar-nav > li > a:hover,
 #mainNav .navbar-nav > li > a:focus:hover {
-  color: #40c974;
+  color: #30af00;
 }
 
 @media (min-width: 992px) {
@@ -193,7 +193,7 @@ font-family: 'Source Sans Pro', sans-serif;;
     color: #222222;
   }
   #mainNav.navbar-shrink .navbar-brand:hover, #mainNav.navbar-shrink .navbar-brand:focus {
-    color: #40c974;
+    color: #30af00;
   }
   #mainNav.navbar-shrink .navbar-nav > li > a,
   #mainNav.navbar-shrink .navbar-nav > li > a:focus {
@@ -201,7 +201,7 @@ font-family: 'Source Sans Pro', sans-serif;;
   }
   #mainNav.navbar-shrink .navbar-nav > li > a:hover,
   #mainNav.navbar-shrink .navbar-nav > li > a:focus:hover {
-    color: #40c974;
+    color: #30af00;
   }
 }
 
@@ -452,16 +452,16 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .bg-primary {
-  background: #40c974;
-  background: -webkit-linear-gradient(#40c974, #40c959);
-  background: linear-gradient(#40c974, #40c959);
+  background: #30af00;
+  background: -webkit-linear-gradient(#30af00, #76dc0f);
+  background: linear-gradient(#30af00, #76dc0f);
 }
 .bg-white {
   background: white;
 }
 
 .text-primary {
-  color: #40c974;
+  color: #30af00;
 }
 
 .no-gutter > [class*='col-'] {
@@ -477,8 +477,8 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
   color: white;
-  border-color: #40c974;
-  background-color: #40c974;
+  border-color: #30af00;
+  background-color: #30af00;
 }
 
 .btn {
