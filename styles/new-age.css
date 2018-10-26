@@ -9,7 +9,7 @@ body {
 }
 
 a {
-  color: #81dd65;
+  color: #27ae75;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s;
@@ -122,7 +122,7 @@ section h2 {
 }
 
 #mainNav .navbar-brand {
-  color: #81dd65;
+  color: #27ae75;
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 200;
   letter-spacing: 1px;
@@ -148,7 +148,7 @@ font-family: 'Source Sans Pro', sans-serif;;
 }
 
 #mainNav .navbar-nav > li > a.active {
-  color: #81dd65 !important;
+  color: #27ae75 !important;
   background-color: transparent;
 }
 
@@ -163,7 +163,7 @@ font-family: 'Source Sans Pro', sans-serif;;
 
 #mainNav .navbar-nav > li > a:hover,
 #mainNav .navbar-nav > li > a:focus:hover {
-  color: #81dd65;
+  color: #27ae75;
 }
 
 @media (min-width: 992px) {
@@ -193,7 +193,7 @@ font-family: 'Source Sans Pro', sans-serif;;
     color: #222222;
   }
   #mainNav.navbar-shrink .navbar-brand:hover, #mainNav.navbar-shrink .navbar-brand:focus {
-    color: #81dd65;
+    color: #27ae75;
   }
   #mainNav.navbar-shrink .navbar-nav > li > a,
   #mainNav.navbar-shrink .navbar-nav > li > a:focus {
@@ -201,7 +201,7 @@ font-family: 'Source Sans Pro', sans-serif;;
   }
   #mainNav.navbar-shrink .navbar-nav > li > a:hover,
   #mainNav.navbar-shrink .navbar-nav > li > a:focus:hover {
-    color: #81dd65;
+    color: #27ae75;
   }
 }
 
@@ -452,16 +452,16 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .bg-primary {
-  background: #81dd65;
-  background: -webkit-linear-gradient(#81dd65, #81dd45);
-  background: linear-gradient(#81dd65, #81dd45);
+  background: #27ae75;
+  background: -webkit-linear-gradient(#27ae75, #02af5b);
+  background: linear-gradient(#27ae75, #02af5b);
 }
 .bg-white {
   background: white;
 }
 
 .text-primary {
-  color: #81dd65;
+  color: #27ae75;
 }
 
 .no-gutter > [class*='col-'] {
@@ -477,8 +477,8 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
   color: white;
-  border-color: #81dd65;
-  background-color: #81dd65;
+  border-color: #27ae75;
+  background-color: #27ae75;
 }
 
 .btn {
