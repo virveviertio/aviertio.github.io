@@ -149,10 +149,10 @@ font-family: 'Source Sans Pro', sans-serif;;
 
 #mainNav .navbar-nav > li > a.active {
   color: #1ca363 !important;
-  background-color: transparent;
+  //background-color: transparent;
 }
 
-#mainNav .navbar-nav > li > a.active:hover {
+//#mainNav .navbar-nav > li > a.active:hover {
   background-color: transparent;
 }
 
@@ -167,7 +167,7 @@ font-family: 'Source Sans Pro', sans-serif;;
 }
 
 @media (min-width: 992px) {
-  #mainNav {
+//  #mainNav {
     border-color: transparent;
     background-color: transparent;
   }
